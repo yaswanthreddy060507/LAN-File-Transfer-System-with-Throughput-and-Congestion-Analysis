@@ -46,13 +46,13 @@ Terminal displays performance summary:<br>
 ```✅ File sent successfully!<br>
 📁 Graph saved: speed_graph_8192B.png<br>
 📊 Transfer Summary<br>
-----------------------------<br>
-File Size:        3950.23 MB<br>
-Total Time:       84.12 sec<br>
-Peak Speed:       71.6 Mbps ⚡<br>
-Average Speed:    58.2 Mbps<br>
-Packet Size:      8192 bytes<br>
-Packets Sent:     48210<br>
-Congestion Mode:  Disabled<br>
-----------------------------<br>
+----------------------------
+File Size:        3950.23 MB
+Total Time:       84.12 sec
+Peak Speed:       71.6 Mbps
+Average Speed:    58.2 Mbps
+Packet Size:      8192 bytes
+Packets Sent:     48210
+Congestion Mode:  Disabled
+----------------------------
 ```
