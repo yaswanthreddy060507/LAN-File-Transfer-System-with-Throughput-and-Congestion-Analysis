@@ -6,10 +6,10 @@ The project also features a live throughput graph plotted using matplotlib, enab
 
 ## Project Execution Procedure
 ### Step 1: Setup Environment 
-1.Install Python 3 (recommended ≥ 3.9).
-2.Install required libraries:
-```pip install matplotlib```
-3.Connect both systems to the same WiFi network (wireless LAN).
+1.Install Python 3 (recommended ≥ 3.9).<br>
+2.Install required libraries:<br>
+```pip install matplotlib```<br>
+3.Connect both systems to the same WiFi network (wireless LAN).<br>
 ### Step 2: Configure Server
 1.Open the server_file.py on the receiver’s machine.
 2.Run:
